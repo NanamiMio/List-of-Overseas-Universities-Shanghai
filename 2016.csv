@@ -1,0 +1,922 @@
+序号,国家/地区,中文校名,外文校名
+1,阿根廷,阿根廷南方大学,Universidad Austral
+2,阿根廷,阿根廷天主大学,Pontificia Universidad Católica Argentina Santa María de los Buenos Aires - UCA
+3,阿根廷,巴勒莫大学,Universidad de Palermo (UP)
+4,阿根廷,贝尔格拉诺大学,Universidad de Belgrano
+5,阿根廷,布宜诺斯艾利斯大学,Universidad de Buenos Aires
+6,阿根廷,布宜诺斯艾利斯理工学院,Instituto Tecnológico de Buenos Aires (ITBA)
+7,阿根廷,国立科尔多瓦大学,Universidad Nacional de Córdoba - UNC
+8,阿根廷,国立拉普拉塔大学,Universidad Nacional de La Plata
+9,阿根廷,国立罗萨里奥大学,Universidad Nacional de Rosario
+10,阿根廷,国立马德普拉塔大学,Universidad Nacional de Mar del Plata
+11,阿根廷,托尔夸托迪特利亚大学,Universidad Torcuato Di Tella
+12,阿拉伯联合酋长国,阿联酋大学,United Arab Emirates University
+13,阿拉伯联合酋长国,哈里发大学,Khalifa University
+14,阿拉伯联合酋长国,沙迦美国大学,American University of Sharjah
+15,埃及,艾因夏姆斯大学,Ain Shams University
+16,埃及,开罗大学,Cairo University
+17,埃及,开罗美国大学,American University in Cairo
+18,埃及,亚历山大大学,Alexandria University
+19,爱尔兰,爱尔兰皇家外科医学院,Royal College of Surgeons in Ireland
+20,爱尔兰,爱尔兰艺术设计学院,National College of Art and Design
+21,爱尔兰,都柏林城市大学,Dublin City University
+22,爱尔兰,都柏林大学学院,University College Dublin
+23,爱尔兰,都柏林理工学院,Dublin Institute of Technology
+24,爱尔兰,都柏林三一学院,Trinity College Dublin
+25,爱尔兰,国立爱尔兰大学高威分校,"National University of Ireland, Galway"
+26,爱尔兰,国立爱尔兰大学梅努斯分校,"National University of Ireland, Maynooth"
+27,爱尔兰,科克大学学院,University College Cork
+28,爱尔兰,利默里克大学,University of Limerick
+29,爱尔兰,梅努斯大学,Maynooth University
+30,爱沙尼亚共和国,爱沙尼亚生命科学大学,Estonian University of Life Sciences
+31,爱沙尼亚共和国,塔尔图大学,University of Tartu
+32,奥地利,格拉茨工业大学,Graz University of Technology
+33,奥地利,格拉茨医科大学,Medical University of Graz
+34,奥地利,卡尔·弗朗岑斯格拉茨大学,University of Graz
+35,奥地利,林茨大学,Johannes Kepler University of Linz
+36,奥地利,维也纳大学,University of Vienna
+37,奥地利,维也纳工业大学,Vienna University of Technology
+38,奥地利,维也纳经济大学,WU (Vienna University of Economics and Business)
+39,奥地利,维也纳兽医大学,University of Veterinary Medicine Vienna
+40,奥地利,维也纳医科大学,Medical University of Vienna
+41,奥地利,维也纳自然资源与应用生命科学大学,University of Natural Resources and Applied Life Sciences Vienna
+42,奥地利,因斯布鲁克大学,University of Innsbruck
+43,奥地利,因斯布鲁克医科大学,Medical University of Innsbruck
+44,澳大利亚,阿德雷德大学,University of Adelaide
+45,澳大利亚,埃迪斯科文大学,Edith Cowan University
+46,澳大利亚,澳大利亚国立大学,Australian National University
+47,澳大利亚,邦德大学,Bond University
+48,澳大利亚,查尔斯·达尔文大学,Charles Darwin University
+49,澳大利亚,迪肯大学,Deakin University
+50,澳大利亚,弗林德斯大学,Flinders University
+51,澳大利亚,格里菲思大学,Griffith University
+52,澳大利亚,皇家墨尔本理工大学,RMIT University
+53,澳大利亚,科廷科技大学,Curtin University of Technology
+54,澳大利亚,昆士兰大学,University of Queensland
+55,澳大利亚,昆士兰科技大学,Queensland University of Technology
+56,澳大利亚,拉筹伯大学,La Trobe University
+57,澳大利亚,麦考瑞大学,Macquarie University
+58,澳大利亚,莫纳什大学,Monash University
+59,澳大利亚,墨尔本大学,University of Melbourne
+60,澳大利亚,默多克大学,Murdoch University
+61,澳大利亚,南澳大学,University of South Australia
+62,澳大利亚,南十字星大学,Southern Cross University
+63,澳大利亚,纽卡斯尔大学,University of Newcastle
+64,澳大利亚,斯威本科技大学,Swinburne University of Technology
+65,澳大利亚,塔斯马尼亚大学,University of Tasmania
+66,澳大利亚,维多利亚大学,Victoria University
+67,澳大利亚,卧龙冈大学,University of Wollongong
+68,澳大利亚,西澳大利亚大学,University of Western Australia
+69,澳大利亚,西悉尼大学,Western Sydney University
+70,澳大利亚,悉尼大学,University of Sydney
+71,澳大利亚,悉尼科技大学,"University of Technology, Sydney"
+72,澳大利亚,新南威尔士大学,University of New South Wales
+73,澳大利亚,新英格兰大学,University of New England Australia
+74,澳大利亚,詹姆斯库克大学,James Cook University
+75,巴基斯坦,阿加汗大学,Aga Khan University
+76,巴基斯坦,阿里德农业大学,Arid Agriculture University
+77,巴基斯坦,巴基斯坦信息技术学院,COMSATS Institute of Information Technology
+78,巴基斯坦,费萨拉巴德农业大学,"University of Agriculture, Faisalabad"
+79,巴基斯坦,伊斯兰堡国立科技大学,National University of Sciences And Technology (NUST) Islamabad
+80,巴基斯坦,真纳大学,Quaid-i-azam University
+81,巴林,阿拉伯海湾大学,Arabian Gulf University
+82,巴西,巴拉那联邦大学,Universidade Federal do Paraná (UFPR)
+83,巴西,巴西国立理论与应用数学研究所,Instituto Nacional de Matemática Pura e Aplicada (IMPA)
+84,巴西,巴西利亚大学,Universidade de Brasilia
+85,巴西,伯南布哥州联邦大学,Universidade Federal de Pernambuco(UFPE)
+86,巴西,弗鲁米嫩塞联邦大学,Universidade Federal Fluminense
+87,巴西,坎皮纳斯州立大学,Universidade Estadual de Campinas
+88,巴西,拉夫拉斯联邦大学,Universidade Federal de Lavras
+89,巴西,里奥格兰德天主大学,Pontificia Universidade Católica do Rio Grande do Sul (PUCRS)
+90,巴西,里约热内卢联邦大学,Universidade Federal do Rio de Janeiro
+91,巴西,里约热内卢天主教大学,Pontifícia Universidade Católica do Rio de Janeiro
+92,巴西,里约热内卢州立大学,Universidade do Estado do Rio de Janeiro (UERJ)
+93,巴西,米纳斯吉拉斯联邦大学,Universidade Federal de Minas Gerais
+94,巴西,南里奥格兰德州联邦大学,Universidade Federal do Rio Grande do Sul
+95,巴西,圣保罗大学,Universidade de São Paulo
+96,巴西,圣保罗联邦大学,Universidade Federal de São Paulo (UNIFESP)
+97,巴西,圣保罗天主政治大学,Pontificia Universidade Católica de São Paulo (PUC -SP)
+98,巴西,圣保罗州立大学,São Paulo State University (UNESP)
+99,巴西,圣卡洛斯联邦大学,Universidade Federal de São Carlos - (UFSCAR)
+100,巴西,圣卡塔琳娜州联邦大学,Universidade Federal de Santa Catarina
+101,巴西,瓦加斯基金会,Fundação Getulio Vargas (FGV)
+102,巴西,维索萨联邦大学,Universidade Federal de Viçosa-UFV
+103,白俄罗斯,白俄罗斯国立大学,Belarus State University
+104,保加利亚,圣克莱门特大学,University of St. Kliment Ohridski
+105,比利时,安特卫普大学,University of Antwerp
+106,比利时,布鲁塞尔自由大学(法语),Université libre de Bruxelles (ULB)
+107,比利时,布鲁塞尔自由大学(佛兰德语),Vrije Universiteit Brussel
+108,比利时,根特大学,Ghent University
+109,比利时,列日大学,University of Liege
+110,比利时,鲁汶大学(法语),Catholic University of Louvain
+111,比利时,鲁汶大学(佛兰德语),KU Leuven
+112,冰岛,冰岛大学,University of Iceland
+113,波兰,波兰矿冶学院,AGH University of Science and Technology
+114,波兰,弗罗茨瓦夫大学,University of Wroclaw
+115,波兰,弗罗茨瓦夫工业大学,Wroclaw University of Technology
+116,波兰,华沙大学,University of Warsaw
+117,波兰,华沙理工大学,Warsaw University of Technology
+118,波兰,华沙中央农村经济学院,Warsaw University of Life Sciences
+119,波兰,克拉科夫雅盖隆大学,Jagiellonian University
+120,波兰,罗兹大学,University of Lodz
+121,丹麦,奥尔堡大学,Aalborg University
+122,丹麦,奥胡斯大学,Aarhus University
+123,丹麦,丹麦技术大学,Technical University of Denmark
+124,丹麦,哥本哈根大学,University of Copenhagen
+125,丹麦,哥本哈根商学院,Copenhagen Business School
+126,丹麦,罗斯基勒大学,Roskilde University
+127,丹麦,南丹麦大学,University of Southern Denmark
+128,德国,埃朗根-纽伦堡大学,University of Erlangen-Nuremberg
+129,德国,柏林工业大学,Technical University of Berlin
+130,德国,柏林洪堡大学,University of Berlin
+131,德国,柏林夏里特医学院,Charite - Medical University of Berlin
+132,德国,柏林自由大学,Free University of Berlin
+133,德国,拜罗伊特大学,University of Bayreuth
+134,德国,拜斯海姆管理学院,WHU - Otto Beisheim School of Management
+135,德国,比勒费尔德大学,Bielefeld University
+136,德国,波茨坦大学,University of Potsdam
+137,德国,波恩大学,University of Bonn
+138,德国,波鸿鲁尔大学,University of Bochum
+139,德国,不来梅大学,University of Bremen
+140,德国,布伦瑞克工业大学,Technical University of Braunschweig
+141,德国,达姆施塔特工业大学,Technical University of Darmstadt
+142,德国,德累斯顿工业大学,Technical University of Dresden
+143,德国,杜塞尔多夫大学,University of Duesseldorf
+144,德国,杜伊斯堡-埃森大学,University of Duisburg-Essen
+145,德国,多特蒙德技术大学,Technical University of Dortmund
+146,德国,法兰克福大学,University of Frankfurt
+147,德国,弗莱堡大学,University of Freiburg
+148,德国,哥廷根大学,University of Goettingen
+149,德国,格赖夫斯瓦尔德大学,University of Greifswald
+150,德国,哈雷-维滕贝格大学,Martin-Luther-Universität Halle-Wittenberg
+151,德国,海德堡大学,Heidelberg University
+152,德国,汉堡大学,University of Hamburg
+153,德国,汉诺威大学,University of Hannover
+154,德国,汉诺威医学院,Hannover Medical School
+155,德国,霍恩海姆大学,University of Hohenheim
+156,德国,基尔大学,University of Kiel
+157,德国,吉森大学,University of Giessen
+158,德国,卡尔斯鲁厄理工学院,Karlsruhe Institute of Technology (KIT)
+159,德国,凯撒斯劳滕工业大学,University of Kaiserslautern
+160,德国,康斯坦茨大学,University of Konstanz
+161,德国,科隆大学,University of Cologne
+162,德国,莱比锡大学,University of Leipzig
+163,德国,雷根斯堡大学,University of Regensburg
+164,德国,罗斯托克大学,University of Rostock
+165,德国,马尔堡大学,University of Marburg
+166,德国,曼海姆大学,University of Mannheim
+167,德国,美因茨大学,University of Mainz
+168,德国,明斯特大学,University of Muenster
+169,德国,慕尼黑大学,University of Munich
+170,德国,慕尼黑工业大学,Technical University of Munich
+171,德国,萨尔大学,Saarland University
+172,德国,斯图加特大学,University of Stuttgart
+173,德国,图宾根大学,University of Tuebingen
+174,德国,维尔茨堡大学,University of Wuerzburg
+175,德国,乌尔姆大学,University of Ulm
+176,德国,亚琛工业大学,RWTH Aachen University
+177,德国,耶拿大学,University of Jena
+178,俄罗斯,高等经济学院,Higher School of Economics (HSE)
+179,俄罗斯,国家研究托木斯克理工大学,National Research Tomsk Polytechnic University
+180,俄罗斯,国立托木斯克大学,Tomsk State University
+181,俄罗斯,喀山联邦大学,Kazan Federal University
+182,俄罗斯,莫斯科国立大学,Lomonosov Moscow State University
+183,俄罗斯,莫斯科国立国际关系学院,Moscow State Institute of International Relations (MGIMO University)
+184,俄罗斯,莫斯科国立科技大学,Bauman Moscow State Technical University
+185,俄罗斯,莫斯科国立物理与科技大学,Moscow Institute of Physics and Technology State University
+186,俄罗斯,莫斯科核子研究大学,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)
+187,俄罗斯,圣彼得堡国立大学,Saint Petersburg State University
+188,俄罗斯,圣彼得堡理工大学,Peter the Great Saint-Petersburg Polytechnic University
+189,俄罗斯,新西伯利亚国立大学,Novosibirsk State University
+190,俄罗斯,新西伯利亚国立技术大学,Novosibirsk State Technical University
+191,法国,埃塞克商学院,ESSEC Business School
+192,法国,艾克斯-马赛大学,Aix-Marseille University
+193,法国,奥弗涅大学,University of Auvergne
+194,法国,巴黎第二大学,Université Panthéon-Assas (Paris 2)
+195,法国,巴黎第九大学,Paris Dauphine University (Paris 9)
+196,法国,巴黎第六大学,Pierre and Marie Curie University - Paris 6
+197,法国,巴黎第七大学,University Paris Diderot - Paris 7
+198,法国,巴黎第三大学,Université Sorbonne Nouvelle Paris 3
+199,法国,巴黎第十大学,Université Paris Ouest Nanterre La Défense
+200,法国,巴黎第十三大学,Université Paris 13 Nord
+201,法国,巴黎第十一大学,University of Paris-Sud (Paris 11)
+202,法国,巴黎第四大学,Université Paris-Sorbonne (Paris IV)
+203,法国,巴黎第五大学,University of Paris Descartes (Paris 5)
+204,法国,巴黎第一大学,Université Paris 1 Panthéon-Sorbonne
+205,法国,巴黎高等电信学院,TELECOM ParisTech
+206,法国,巴黎高等矿业学校,MINES ParisTech
+207,法国,巴黎高等农艺科学学院,"Agro, ParisTech"
+208,法国,巴黎高等商学院,HEC Paris School of Management
+209,法国,巴黎高等师范学校,Ecole Normale Superieure - Paris
+210,法国,巴黎高科工程技术学校,"Arts et Métiers, ParisTech"
+211,法国,巴黎工业物理化学学校,ESPCI ParisTech
+212,法国,巴黎国家高等工业设计学院,"Ecole Nationale Supérieure de Création Industrielle, ENSCI Les Ateliers"
+213,法国,巴黎路桥学院,Ecole des Ponts ParisTech
+214,法国,巴黎政治学院,Sciences Po Paris
+215,法国,巴黎中央理工学院,Ecole Centrale de Paris
+216,法国,巴黎综合理工学院,Ecole Polytechnique
+217,法国,波尔多大学,University of Bordeaux
+218,法国,法国国立园艺学院,Agrocampus Ouest
+219,法国,高等电力学院,École Supérieure d'Électricité
+220,法国,格勒诺布尔第一大学,Joseph Fourier University (Grenoble 1)
+221,法国,格勒诺布尔高等商学院,Grenoble Graduate School of Business
+222,法国,格勒诺布尔理工学院,Institut polytechnique de Grenoble - Grenoble Institute of Technology
+223,法国,贡比涅技术大学,Université de Technologie de Compiègne (UTC)
+224,法国,国立蒙彼利埃高等农艺学院,"Sup Agro, Montpellier"
+225,法国,卡尚高等师范学院,Ecole Normale Supérieure de Cachan
+226,法国,雷恩第一大学,University of Rennes 1
+227,法国,里昂第二大学,Université Lumière Lyon 2
+228,法国,里昂第一大学,Claude Bernard University Lyon 1
+229,法国,里昂高等师范学校,Ecole Normale Superieure - Lyon
+230,法国,里昂商学院,EMLYON Business School
+231,法国,里昂应用科学学院,National Institute of Applied Sciences of Lyon (INSA Lyon)
+232,法国,里昂中央理工学院,Ecole Centrale de Lyon
+233,法国,里尔第二大学,Lille 2 University – Health and Law
+234,法国,里尔第三大学,Université Charles-de-Gaulle Lille 3
+235,法国,里尔第一大学,"Université Lille 1, Sciences et Technologies"
+236,法国,洛林大学,University of Lorraine
+237,法国,蒙彼利埃大学,University of Montpellier
+238,法国,蒙彼利埃第二大学,Université Montpellier 2 Sciences et Techniques
+239,法国,蒙彼利埃高等化学学院,"ENSCM, Chimie Montpellier"
+240,法国,南特大学,University of Nantes
+241,法国,南特中央理工学院,Ecole Centrale de Nantes
+242,法国,尼斯大学,University of Nice Sophia Antipolis
+243,法国,欧洲工商管理学院,INSEAD
+244,法国,欧洲商学院,ESCP Europe
+245,法国,萨瓦大学,Université de Savoie
+246,法国,斯特拉斯堡大学,University of Strasbourg
+247,法国,图卢兹第三大学,Paul Sabatier University (Toulouse 3)
+248,法国,图卢兹第一大学,Toulouse 1 Capitole University
+249,法国,图卢兹经济学院,Toulouse School of Economics
+250,菲律宾,德拉萨大学,De La Salle University
+251,菲律宾,菲律宾大学,University of the Philippines
+252,菲律宾,马尼拉雅典耀大学,Ateneo de Manila University
+253,芬兰,阿尔托大学,Aalto University
+254,芬兰,埃博学术大学,Abo Akademi University
+255,芬兰,奥卢大学,University of Oulu
+256,芬兰,东芬兰大学,University of Eastern Finland
+257,芬兰,赫尔辛基大学,University of Helsinki
+258,芬兰,坦佩雷大学,University of Tampere
+259,芬兰,坦佩雷理工大学,Tampere University of Technology
+260,芬兰,图尔库大学,University of Turku
+261,芬兰,于韦斯屈莱大学,University of Jyvaskyla
+262,哥伦比亚,安第斯大学,Universidad de los Andes
+263,哥伦比亚,安蒂奥基亚省大学,Universidad de Antioquia
+264,哥伦比亚,哥伦比亚对外大学,Universidad Externado de Colombia
+265,哥伦比亚,哥伦比亚国立大学,Universidad Nacional de Colombia
+266,哥伦比亚,哈韦里安纳主教大学,Pontificia Universidad Javeriana
+267,哥伦比亚,拉萨瓦纳大学,Universidad de La Sabana
+268,哈萨克斯坦,法拉比国立哈萨克斯坦大学,Al-Farabi Kazakh National University
+269,哈萨克斯坦,国立欧亚大学,L.N. Gumilyov Eurasian National University
+270,韩国,成均馆大学,Sungkyunkwan University
+271,韩国,东国大学,Dongguk University
+272,韩国,高丽大学,Korea University
+273,韩国,光州科技学院,Gwangju Institute of Science and Technology
+274,韩国,国立釜山大学,Pusan National University
+275,韩国,国立庆尚大学,Gyeongsang National University
+276,韩国,国立全北大学,Chonbuk National University
+277,韩国,国立全南大学,Chonnam National University
+278,韩国,国立忠南大学,Chungnam National University
+279,韩国,韩国科学技术院,Korea Advanced Institute of Science and Technology
+280,韩国,韩国岭南大学,Yeungnam University
+281,韩国,韩国天主教大学,Catholic University of Korea
+282,韩国,韩国外国语大学,Hankuk (Korea) University of Foreign Studies
+283,韩国,韩国中央大学,Chung-Ang University(CAU)
+284,韩国,汉阳大学,Hanyang University
+285,韩国,弘益大学,Hongik University
+286,韩国,梨花女子大学,Ewha Womans University
+287,韩国,浦项理工大学,Pohang University of Science and Technology
+288,韩国,庆北国立大学,Kyungpook National University
+289,韩国,庆熙大学,Kyung Hee University
+290,韩国,仁荷大学,Inha University
+291,韩国,首尔大学,University of Seoul
+292,韩国,首尔国立大学,Seoul National University
+293,韩国,蔚山大学,University of Ulsan
+294,韩国,西江大学,Sogang University
+295,韩国,亚洲大学,Ajou University
+296,韩国,延世大学,Yonsei University
+297,荷兰,阿姆斯特丹大学,University of Amsterdam
+298,荷兰,阿姆斯特丹自由大学,VU University Amsterdam
+299,荷兰,埃因霍温工业大学,Eindhoven University of Technology
+300,荷兰,爱因霍芬设计学院,Design Academy Eindhoven
+301,荷兰,代尔夫特理工大学,Delft University of Technology
+302,荷兰,蒂尔堡大学,Tilburg University
+303,荷兰,格罗宁根大学,University of Groningen
+304,荷兰,荷兰皇家美术学院,"Royal Academy of Art, The Hague (KABK)"
+305,荷兰,莱顿大学,Leiden University
+306,荷兰,马斯特里赫特大学,Maastricht University
+307,荷兰,奈梅亨大学,Radboud University Nijmegen
+308,荷兰,特文特大学,University of Twente
+309,荷兰,瓦格宁根大学,Wageningen University and Research Center
+310,荷兰,乌得勒支大学,Utrecht University
+311,荷兰,伊拉斯姆斯大学鹿特丹管理学院,"Rotterdam School of Management, Erasmus University"
+312,荷兰,伊拉兹马斯大学,Erasmus University Rotterdam
+313,加拿大,阿尔伯塔大学,University of Alberta
+314,加拿大,艾米丽卡尔艺术设计大学,Emily Carr University of Art + Design
+315,加拿大,达尔豪斯大学,Dalhousie University
+316,加拿大,多伦多大学,University of Toronto
+317,加拿大,圭尔夫大学,University of Guelph
+318,加拿大,滑铁卢大学,University of Waterloo
+319,加拿大,皇后大学,Queen's University
+320,加拿大,卡尔顿大学,Carleton University
+321,加拿大,卡尔加里大学,University of Calgary
+322,加拿大,魁北克大学,Université du Québec
+323,加拿大,魁北克大学蒙特利尔分校,Université du Québec à Montréal
+324,加拿大,拉瓦尔大学,Laval University
+325,加拿大,马尼托巴大学,University of Manitoba
+326,加拿大,麦吉尔大学,McGill University
+327,加拿大,麦克马斯特大学,McMaster University
+328,加拿大,蒙特利尔大学,University of Montreal
+329,加拿大,纽芬兰纪念大学,Memorial University of Newfoundland
+330,加拿大,萨斯喀彻温大学,University of Saskatchewan
+331,加拿大,舍布鲁克大学,Université de Sherbrooke
+332,加拿大,维多利亚大学,University of Victoria
+333,加拿大,渥太华大学,University of Ottawa
+334,加拿大,西安大略大学,University of Western Ontario
+335,加拿大,西蒙弗雷泽大学,Simon Fraser University
+336,加拿大,协和大学（加拿大）,Concordia University
+337,加拿大,英属哥伦比亚大学,University of British Columbia
+338,加拿大,约克大学(加拿大),York University
+339,捷克共和国,奥斯特拉瓦技术大学,VŠB - Technical University of Ostrava
+340,捷克共和国,布尔诺科技大学,Brno University of Technology
+341,捷克共和国,布拉格查尔斯大学,Charles University in Prague
+342,捷克共和国,布拉格科技大学,Czech Technical University in Prague
+343,捷克共和国,捷克科学院,Academy of Sciences of the Czech Republic
+344,捷克共和国,捷克美术学院,Academy of Fine Arts
+345,捷克共和国,帕拉茨基大学,Palacky University Olomouc
+346,卡塔尔,卡塔尔大学,Qatar University
+347,克罗地亚共和国,萨格勒布大学,University of Zagreb
+348,肯尼亚,内罗毕大学,University of Nairobi
+349,黎巴嫩,贝鲁特美国大学,American University of Beirut (AUB)
+350,立陶宛,维尔纽斯大学,Vilnius University
+351,立陶宛,维尔纽斯科技大学,Vilnius Gediminas Technical University
+352,卢森堡,卢森堡大学,University of Luxembourg
+353,罗马尼亚,贝碧思鲍耶大学,Babes-Bolyai University
+354,罗马尼亚,布加勒斯特大学,University of Bucharest
+355,罗马尼亚,西蒂米什瓦拉大学,Universitatea de Vest din Timisoara / West University of Timisoara
+356,罗马尼亚,亚历山德鲁·库扎大学,Alexandru Ioan Cuza University
+357,马来西亚,多媒体大学,Multimedia University (MMU)
+358,马来西亚,马来西亚北方大学,Universiti Utara Malaysia (UUM)
+359,马来西亚,马来西亚博特拉大学,Universiti Putra Malaysia (UPM)
+360,马来西亚,马来西亚国民大学,Universiti Kebangsaan Malaysia (UKM)
+361,马来西亚,马来西亚侯赛因大学,Universiti Tun Hussein Onn Malaysia (UTHM)
+362,马来西亚,马来西亚科技大学,Universiti Sains Malaysia (USM)
+363,马来西亚,马来西亚理工大学,Universiti Teknologi Malaysia
+364,马来西亚,马来西亚理科大学,"University of Science, Malaysia"
+365,马来西亚,马来西亚石油大学,Universiti Teknologi Petronas (Petronas)
+366,马来西亚,马来亚大学,Universiti Malaya
+367,马来西亚,玛拉科技大学,Universiti Teknologi MARA - UiTM
+368,美国,阿肯色大学-菲耶特维勒,University of Arkansas at Fayetteville
+369,美国,阿肯色大学-小石城,University of Arkansas at Little Rock
+370,美国,阿拉巴马大学,University of Alabama--Tuscaloosa
+371,美国,阿拉巴马大学-伯明翰,University of Alabama at Birmingham
+372,美国,阿拉斯加大学-费尔班克斯,University of Alaska - Fairbanks
+373,美国,埃莫里大学,Emory University
+374,美国,爱达荷大学,University of Idaho
+375,美国,爱荷华大学,University of Iowa
+376,美国,爱荷华州立大学,Iowa State University
+377,美国,奥本大学,Auburn University
+378,美国,北卡罗来纳大学教堂山分校,University of North Carolina at Chapel Hill
+379,美国,北卡罗来纳州立大学-罗利,North Carolina State University - Raleigh
+380,美国,北伊利诺伊大学,Northern Illinois University
+381,美国,贝勒大学,Baylor University
+382,美国,贝勒医学院,Baylor College of Medicine
+383,美国,宾夕法尼亚大学,University of Pennsylvania
+384,美国,宾夕法尼亚州立大学-大学城,Pennsylvania State University - University Park
+385,美国,波士顿大学,Boston University
+386,美国,波士顿学院,Boston College
+387,美国,布兰迪斯大学,Brandeis University
+388,美国,布朗大学,Brown University
+389,美国,达特茅斯学院,Dartmouth College
+390,美国,德克萨斯大学阿灵顿分校,University of Texas--Arlington
+391,美国,德克萨斯大学安德森肿瘤中心,University of Texas M. D. Anderson Cancer Center
+392,美国,德克萨斯大学奥斯汀分校,University of Texas at Austin
+393,美国,德克萨斯大学达拉斯分校,University of Texas at Dallas
+394,美国,德克萨斯大学圣安东尼奥分校,University of Texas at San Antonio
+395,美国,德克萨斯大学卫生科学中心-圣安东尼奥,University of Texas Health Science Center at San Antonio
+396,美国,德克萨斯大学卫生科学中心-休斯顿,University of Texas Health Science Center at Houston
+397,美国,德克萨斯大学西南医学中心,University of Texas Southwestern Medical Center at Dallas
+398,美国,德克萨斯大学医学部-加尔维斯顿,University of Texas Medical Branch at Galveston
+399,美国,德克萨斯理工大学,Texas Tech University
+400,美国,德雷塞尔大学,Drexel University
+401,美国,德州农工大学,Texas A&M University
+402,美国,东北大学(美国),Northeastern University
+403,美国,杜克大学,Duke University
+404,美国,杜兰大学,Tulane University
+405,美国,俄亥俄大学,Ohio University
+406,美国,俄亥俄州立大学-哥伦布,Ohio State University - Columbus
+407,美国,俄克拉荷马大学-诺曼,University of Oklahoma - Norman
+408,美国,俄克拉荷马州立大学,Oklahoma State University
+409,美国,俄勒冈大学,University of Oregon
+410,美国,俄勒冈卫生科学大学,Oregon Health and Science University
+411,美国,俄勒冈州立大学,Oregon State University
+412,美国,范德堡大学,Vanderbilt University
+413,美国,佛罗里达大学,University of Florida
+414,美国,佛罗里达国际大学,Florida International University
+415,美国,佛罗里达州立大学,Florida State University
+416,美国,佛蒙特大学,University of Vermont
+417,美国,弗吉尼亚大学,University of Virginia
+418,美国,弗吉尼亚理工学院,Virginia Polytechnic Institute and State University
+419,美国,弗吉尼亚联邦(州立)大学,Virginia Commonwealth University
+420,美国,福坦莫大学,Fordham University
+421,美国,哥伦比亚大学,Columbia University
+422,美国,哈佛大学,Harvard University
+423,美国,华盛顿大学,University of Washington
+424,美国,华盛顿大学-圣路易斯,Washington University in St. Louis
+425,美国,华盛顿州立大学-普尔曼,Washington State University
+426,美国,怀俄明大学,University of Wyoming
+427,美国,霍华德大学,Howard University
+428,美国,加州大学-伯克利,"University of California, Berkeley"
+429,美国,加州大学-戴维斯,"University of California, Davis"
+430,美国,加州大学-尔湾分校,"University of California, Irvine"
+431,美国,加州大学河滨分校,"University of California, Riverside"
+432,美国,加州大学旧金山分校,"University of California, San Francisco"
+433,美国,加州大学-洛杉矶,"University of California, Los Angeles"
+434,美国,加州大学-圣地亚哥,"University of California, San Diego"
+435,美国,加州大学-圣克鲁兹,"University of California, Santa Cruz"
+436,美国,加州大学-圣塔芭芭拉,"University of California, Santa Barbara"
+437,美国,加州理工学院,California Institute of Technology
+438,美国,加州设计艺术中心学院,Art Center College of Design
+439,美国,加州艺术学院,California College of the Arts
+440,美国,加州艺术学院,California Institute of the Arts
+441,美国,旧金山大学,University of San Francisco
+442,美国,卡内基梅隆大学,Carnegie Mellon University
+443,美国,凯斯西储大学,Case Western Reserve University
+444,美国,堪萨斯大学,University of Kansas
+445,美国,堪萨斯州立大学,Kansas State University
+446,美国,康乃尔大学,Cornell University
+447,美国,康涅狄格大学,University of Connecticut
+448,美国,科罗拉多大学-玻尔得,University of Colorado at Boulder
+449,美国,科罗拉多大学-丹佛,University of Colorado at Denver
+450,美国,科罗拉多矿业学院,Colorado School of Mines
+451,美国,科罗拉多州立大学,Colorado State University
+452,美国,克拉克大学,Clark University
+453,美国,克莱姆森大学,Clemson University
+454,美国,克兰布鲁克艺术学院,Cranbrook Academy of Art
+455,美国,肯塔基大学,University of Kentucky
+456,美国,拉什大学,Rush University
+457,美国,莱斯大学,Rice University
+458,美国,里海大学,Lehigh University
+459,美国,路易斯安娜州立大学-巴吞鲁日,Louisiana State University - Baton Rouge
+460,美国,路易维尔大学,University of Louisville
+461,美国,伦斯勒理工学院,Rensselaer Polytechnic Institute
+462,美国,罗德岛大学,University of Rhode Island
+463,美国,罗德岛设计学院,Rhode Island School of Design (RISD)
+464,美国,罗格斯，新泽西州立大学，新布朗思威克分校,"Rutgers, The State University of New Jersey - New Brunswick"
+465,美国,"罗格斯新泽西州州立大学,纽瓦克","Rutgers - The State University of New Jersey, Newark"
+466,美国,罗切斯特大学,University of Rochester
+467,美国,洛克菲勒大学,Rockefeller University
+468,美国,麻省理工学院,Massachusetts Institute of Technology
+469,美国,马里兰大学-巴尔的摩,"University of Maryland, Baltimore"
+470,美国,马里兰大学-巴尔的摩县,"University of Maryland, Baltimore County"
+471,美国,马里兰大学-大学城,"University of Maryland, College Park"
+472,美国,马萨诸塞大学阿默斯特分校,University of Massachusetts Amherst
+473,美国,马萨诸塞大学医学院伍斯特分校,University of Massachusetts Medical School - Worcester
+474,美国,迈阿密大学,University of Miami
+475,美国,迈阿密大学（俄亥俄）,Miami University
+476,美国,梅奥临床医学院,Mayo Medical School
+477,美国,美国大学,American University
+478,美国,蒙大拿大学-密索拉,University of Montana - Missoula
+479,美国,密苏里大学-哥伦比亚,University of Missouri - Columbia
+480,美国,密西西比大学,University of Mississippi
+481,美国,密歇根大学安娜堡分校,University of Michigan-Ann Arbor
+482,美国,密歇根理工大学,Michigan Technological University
+483,美国,密歇根州立大学,Michigan State University
+484,美国,明尼苏达大学-双城,"University of Minnesota, Twin Cities"
+485,美国,内布拉斯加大学-林肯,University of Nebraska - Lincoln
+486,美国,内布拉斯加大学医学中心,University of Nebraska Medical Center
+487,美国,南达科他大学,University of South Dakota
+488,美国,南方卫理公会大学,Southern Methodist University
+489,美国,南佛罗里达大学,University of South Florida
+490,美国,南加州大学,University of Southern California
+491,美国,南卡罗来纳大学-哥伦比亚,University of South Carolina - Columbia
+492,美国,南卡罗来纳医科大学,Medical University of South Carolina
+493,美国,纽约城市大学-城市学院,City University of New York City College
+494,美国,纽约大学,New York University
+495,美国,纽约州立大学阿尔巴尼分校,State University of New York Albany
+496,美国,纽约州立大学宾汉姆顿分校,"Binghamton University, State University of New York"
+497,美国,纽约州立大学-石溪,Stony Brook University
+498,美国,纽约州立大学水牛城分校,"University at Buffalo, the State University of New York"
+499,美国,纽约州立大学卫生科学中心-布鲁克林,State University of New York Health Science Center at Brooklyn
+500,美国,匹兹堡大学,"University of Pittsburgh, Pittsburgh Campus"
+501,美国,普渡大学-西拉法叶,Purdue University - West Lafayette
+502,美国,普拉特学院,Pratt Institute
+503,美国,普林斯顿大学,Princeton University
+504,美国,乔治城大学,Georgetown University
+505,美国,乔治华盛顿大学,George Washington University
+506,美国,乔治梅森大学,George Mason University
+507,美国,萨凡纳艺术设计学院,Savannah College of Art and Design
+508,美国,圣地亚哥州立大学,San Diego State University
+509,美国,圣路易斯大学,Saint Louis University
+510,美国,圣母玛利亚大学,University of Notre Dame
+511,美国,斯坦福大学,Stanford University
+512,美国,塔夫茨大学,Tufts University
+513,美国,坦普尔大学,Temple University
+514,美国,特拉华大学,University of Delaware
+515,美国,田纳西大学-诺克斯维尔,University of Tennessee - Knoxville
+516,美国,托马斯杰斐逊大学,Thomas Jefferson University
+517,美国,威廉玛丽学院,College of William & Mary
+518,美国,威斯康辛大学-麦迪逊,University of Wisconsin - Madison
+519,美国,威斯康辛大学米尔沃基分校,University of Wisconsin--Milwaukee
+520,美国,威斯康辛医学院,Medical College of Wisconsin
+521,美国,韦恩州立大学,Wayne State University
+522,美国,维克森林大学,Wake Forest University
+523,美国,伍斯特理工学院,Worcester Polytechnic Institute
+524,美国,西北大学(美国),Northwestern University
+525,美国,西奈山医学院,Icahn School of Medicine at Mount Sinai
+526,美国,夏威夷大学马诺阿分校,University of Hawaii at Manoa
+527,美国,辛辛那提大学,University of Cincinnati
+528,美国,新罕布什尔大学-达勒姆,University of New Hampshire - Durham
+529,美国,新墨西哥大学-阿尔伯克基,University of New Mexico - Albuquerque
+530,美国,新学校大学,New School University
+531,美国,新学校大学帕森设计学院,Parsons School of Design at The New School
+532,美国,休斯顿大学,University of Houston
+533,美国,雪城大学,Syracuse University
+534,美国,亚利桑那大学,University of Arizona
+535,美国,亚利桑那州立大学-坦佩,Arizona State University - Temple
+536,美国,杨百翰大学-普罗沃,Brigham Young University
+537,美国,耶鲁大学,Yale University
+538,美国,叶史瓦大学,Yeshiva University
+539,美国,伊利诺伊大学香槟分校,University of Illinois at Urbana-Champaign
+540,美国,伊利诺伊科技学院,Illinois Institute of Technology
+541,美国,印第安纳大学-布鲁明顿,Indiana University Bloomington
+542,美国,印第安纳大学-印第安纳波利斯,Indiana University-Purdue University at Indianapolis
+543,美国,犹他大学,University of Utah
+544,美国,犹他州立大学,Utah State University
+545,美国,约翰霍普金斯大学,Johns Hopkins University
+546,美国,芝加哥大学,University of Chicago
+547,美国,芝加哥洛约拉大学,Loyola University Chicago
+548,美国,芝加哥伊利诺伊大学,University of Illinois at Chicago
+549,美国,芝加哥艺术学院,School of the Art Institute of Chicago (SAIC)
+550,美国,中佛罗里达大学,University of Central Florida
+551,美国,佐治亚大学,University of Georgia
+552,美国,佐治亚理工学院,Georgia Institute of Technology
+553,美国,佐治亚州立大学,Georgia State University
+554,孟加拉国,达卡大学,University of Dhaka
+555,秘鲁,秘鲁天主教大学,Pontificia Universidad Católica del Perú
+556,墨西哥,蒙特雷科技大学,Instituto Tecnológico y de Estudios Superiores de Monterrey
+557,墨西哥,墨西哥国立理工大学,Instituto Politécnico Nacional (IPN)
+558,墨西哥,墨西哥国立自治大学,Universidad Nacional Autónoma de México (UNAM)
+559,墨西哥,墨西哥自治都会大学,Universidad Autónoma Metropolitana (UAM)
+560,墨西哥,墨西哥自治理工大学,Instituto Tecnológico Autónomo de México (ITAM)
+561,墨西哥,普埃布拉自治大学,Benemérita Universidad Autónoma de Puebla
+562,墨西哥,圣路易斯波多西州立自治大学,Universidad Autónoma de San Luis de Potosí
+563,墨西哥,伊比利亚美洲大学,Universidad Iberoamericana (UIA)
+564,南非,比勒陀利亚大学,University of Pretoria
+565,南非,金山大学,University of the Witwatersrand
+566,南非,开普敦大学,University of Cape Town
+567,南非,夸祖鲁-纳塔尔大学,University of KwaZulu-Natal
+568,南非,罗德斯大学,Rhodes University
+569,南非,斯坦陵布什大学,Stellenbosch University
+570,南非,约翰内斯堡大学,University of Johannesburg
+571,挪威,奥斯陆大学,University of Oslo
+572,挪威,卑尔根大学,University of Bergen
+573,挪威,挪威科技大学,Norwegian University of Science and Technology - NTNU
+574,挪威,挪威商学院,BI Norwegian Business School
+575,挪威,挪威生命科学大学,Norwegian University of Life Sciences
+576,挪威,挪威兽医学院,Norwegian School of Veterinary Science
+577,挪威,特罗姆瑟大学-挪威北极圈大学,University of Tromsø- The Arctic University of Norway (UiT)
+578,葡萄牙,阿威罗大学,University of Aveiro
+579,葡萄牙,波尔图大学,University of Porto
+580,葡萄牙,科英布拉大学,University of Coimbra
+581,葡萄牙,里斯本大学,University of Lisbon
+582,葡萄牙,里斯本技术高等学院,Instituto Superior Técnico Lisboa
+583,葡萄牙,米尼奥大学,University of Minho
+584,葡萄牙,新星葡京大学,Universidade Nova de Lisboa
+585,日本,北海道大学,Hokkaido University
+586,日本,长崎大学,Nagasaki University
+587,日本,大阪大学,Osaka University
+588,日本,大阪市立大学,Osaka City University
+589,日本,德岛大学,The University of Tokushima
+590,日本,东北大学(日本),Tohoku University
+591,日本,东京大学,University of Tokyo
+592,日本,东京都会大学,Tokyo Metropolitan University
+593,日本,东京工业大学,Tokyo Institute of Technology
+594,日本,东京科学大学,Tokyo University of Science
+595,日本,东京农业科技大学,Tokyo University of Agriculture and Technology
+596,日本,东京药科大学,Tokyo University of Pharmacy and Life Sciences
+597,日本,东京医牙大学,Tokyo Medical and Dental University
+598,日本,冈山大学,Okayama University
+599,日本,广岛大学,Hiroshima University
+600,日本,横滨国立大学,Yokohama National University
+601,日本,金泽大学,Kanazawa University
+602,日本,京都大学,Kyoto University
+603,日本,九州大学,Kyushu University
+604,日本,名古屋大学,Nagoya University
+605,日本,奈良科技大学,Nara Institute of Science and Technology
+606,日本,千叶大学,Chiba University
+607,日本,庆应义塾大学,Keio University
+608,日本,群马大学,Gunma University
+609,日本,三重大学,Mie University
+610,日本,山口大学,Yamaguchi University
+611,日本,上智大学,Sophia University
+612,日本,神户大学,Kobe University
+613,日本,新泻大学,Niigata University
+614,日本,信州大学,Shinshu University
+615,日本,熊本大学,Kumamoto University
+616,日本,一桥大学,Hitotsubashi University
+617,日本,早稻田大学,Waseda University
+618,日本,昭和大学,Showa University
+619,日本,筑波大学,University of Tsukuba
+620,瑞典,查尔姆斯理工大学,Chalmers University of Technology
+621,瑞典,厄勒布鲁大学,Örebro University
+622,瑞典,哥德堡大学,University of Gothenburg
+623,瑞典,皇家理工学院,KTH Royal Institute of Technology
+624,瑞典,卡罗林斯卡学院,Karolinska Institute
+625,瑞典,林雪平大学,Linkoping University
+626,瑞典,隆德大学,Lund University
+627,瑞典,马尔默大学,Malmo University
+628,瑞典,瑞典国立艺术与设计学院,"Konstfack University College of Arts, Crafts and Design"
+629,瑞典,瑞典皇家美术学院,Royal University College of Fine Arts
+630,瑞典,瑞典农业科学大学,Swedish University of Agricultural Sciences
+631,瑞典,斯德哥尔摩大学,Stockholm University
+632,瑞典,斯德哥尔摩经济学院,Stockholm School of Economics
+633,瑞典,乌普萨拉大学,Uppsala University
+634,瑞典,于默奥大学,Umea University
+635,瑞士,巴塞尔大学,University of Basel
+636,瑞士,伯尔尼大学,University of Bern
+637,瑞士,弗里堡大学,University of Fribourg
+638,瑞士,卢加诺大学,USI Università della Svizzera italiana / USI University of Lugano
+639,瑞士,洛桑大学,University of Lausanne
+640,瑞士,洛桑联邦理工学院,Swiss Federal Institute of Technology Lausanne
+641,瑞士,纽沙泰尔大学,University of Neuchatel
+642,瑞士,日内瓦大学,University of Geneva
+643,瑞士,日内瓦艺术设计学院,Haute Ecole d'art et de design de Genève (HEAD)
+644,瑞士,瑞士洛桑国际管理学院,International Institute for Management Development
+645,瑞士,圣加仑大学,University of St.Gallen (HSG)
+646,瑞士,苏黎世大学,University of Zurich
+647,瑞士,苏黎世联邦理工学院,Swiss Federal Institute of Technology Zurich
+648,塞尔维亚,贝尔格莱德大学,University of Belgrade
+649,塞浦路斯,塞浦路斯大学,University of Cyprus
+650,沙特阿拉伯,阿卜杜拉国王科技大学,King Abdullah University of Science and Technology
+651,沙特阿拉伯,阿卜杜勒阿齐兹国王大学,King Abdulaziz University
+652,沙特阿拉伯,法赫德国王石油矿产大学,King Fahd University of Petroleum & Minerals
+653,沙特阿拉伯,沙特国王大学,King Saud University
+654,斯洛伐克,夸美纽斯大学,Comenius University in Bratislava
+655,斯洛文尼亚,卢布尔雅那大学,University of Ljubljana
+656,泰国,国王科技大学,King Mongkut's University of Technology Thonburi
+657,泰国,孔敬大学,Khon Kaen University
+658,泰国,玛希隆大学,Mahidol University
+659,泰国,清迈大学,Chiang Mai University
+660,泰国,宋卡王子大学,Prince of Songkla University
+661,泰国,泰国法政大学,Thammasat University
+662,泰国,泰国农业大学,Kasetsart University
+663,泰国,先皇理工学院,King Mongkut's Institute of Technology Ladkrabang
+664,泰国,亚洲理工学院,"Asian Institute of Technology, Thailand"
+665,泰国,朱拉隆功大学,Chulalongkorn University
+666,土耳其,KOC大学,Koc University
+667,土耳其,安卡拉大学,Ankara University
+668,土耳其,比尔肯大学,Bilkent University
+669,土耳其,哈斯特帕大学,Hacettepe University
+670,土耳其,海峡大学,Bogazici University
+671,土耳其,萨班哲大学,Sabanci University
+672,土耳其,伊斯坦布尔大学,Istanbul University
+673,土耳其,伊斯坦布尔理工大学,Istanbul Technical University
+674,土耳其,中东理工大学,Middle East Technical University
+675,乌干达,麦克雷雷大学,Makerere University
+676,乌克兰,国立基辅大学,Taras Shevchenko National University of Kyiv
+677,乌克兰,哈尔科夫国立大学,V. N. Karazin Kharkiv National University
+678,西班牙,阿尔卡拉大学,Universidad de Alcalá
+679,西班牙,阿利坎特大学,Universidad de Alicante
+680,西班牙,巴伦西亚大学,University of Valencia
+681,西班牙,巴塞罗那大学,University of Barcelona
+682,西班牙,巴塞罗那自治大学,Autonomous University of Barcelona
+683,西班牙,巴斯克大学,University of the Basque Country
+684,西班牙,得恩普萨大学,IE University
+685,西班牙,格拉纳达大学,University of Granada
+686,西班牙,加泰罗尼亚理工大学,Polytechnic University of Catalonia
+687,西班牙,拉萨尔大学,La Salle Universitat Ramon Llull
+688,西班牙,马德里卡洛斯三世大学,Universidad Carlos III de Madrid (UC3M)
+689,西班牙,马德里康普顿斯大学,Complutense University of Madrid
+690,西班牙,马德里理工大学,Politécnica de Madrid
+691,西班牙,马德里自治大学,Autonomous University of Madrid
+692,西班牙,纳瓦拉大学,University of Navarra
+693,西班牙,庞培法布拉大学,Pompeu Fabra University
+694,西班牙,萨拉戈萨大学,University of Zaragoza
+695,西班牙,萨拉曼卡大学,University of Salamanca
+696,西班牙,塞维利亚大学,University of Seville
+697,西班牙,圣地亚哥联合大学,University of Santiago Compostela
+698,西班牙,瓦伦西亚理工大学,Polytechnic University of Valencia
+699,西班牙,西班牙科尔多瓦大学,Universidad de Córdoba - España
+700,西班牙,依维尔基里大学,University of Rovira i Virgili
+701,希腊,爱奥尼亚大学,University of Ioannina
+702,希腊,克里特大学,University of Crete
+703,希腊,克里特科技大学,Technical University of Crete
+704,希腊,帕特雷大学,University of Patras
+705,希腊,萨洛尼卡大学,Aristotle University of Thessaloniki
+706,希腊,雅典大学,National and Kapodistrian University of Athens
+707,希腊,雅典国立科技大学,National Technical University of Athens
+708,希腊,雅典经济与商业大学,Athens University of Economics and Business
+709,新加坡,哈特福德学院,Hartford Institute
+710,新加坡,南洋理工大学,Nanyang Technological University
+711,新加坡,新加坡管理大学,Singapore Management University
+712,新加坡,新加坡国立大学,National University of Singapore
+713,新西兰,奥克兰大学,University of Auckland
+714,新西兰,奥克兰理工大学,Auckland University of Technology
+715,新西兰,奥塔哥大学,University of Otago
+716,新西兰,怀卡托大学,University of Waikato
+717,新西兰,惠灵顿维多利亚大学,Victoria University of Wellington
+718,新西兰,坎特伯雷大学,University of Canterbury
+719,新西兰,林肯大学,Lincoln University
+720,新西兰,梅西大学,Massey University
+721,匈牙利,布达佩斯大学,Corvinus University of Budapest
+722,匈牙利,布达佩斯经济技术大学,Budapest University of Technology and Economics
+723,匈牙利,德布勒森大学,University of Debrecen
+724,匈牙利,罗兰大学,Eotvos Lorand University
+725,匈牙利,佩奇大学,University of Pécs
+726,匈牙利,塞格德大学,University of Szeged
+727,匈牙利,塞梅尔魏斯大学,Semmelweis University
+728,匈牙利,中欧大学,Central European University
+729,伊朗,德黑兰大学,University of Tehran
+730,伊朗,沙力夫理工大学,Sharif University of Technology
+731,伊朗,伊朗科技大学,Iran University of Science and Technology
+732,以色列,巴依兰大学,Bar-Ilan University
+733,以色列,内盖夫本·古里安大学,Ben-Gurion University of the Negev
+734,以色列,特拉维夫大学,Tel Aviv University
+735,以色列,魏茨曼科学研究学院,Weizmann Institute of Science
+736,以色列,耶路撒冷希伯来大学,Hebrew University of Jerusalem
+737,以色列,以色列理工学院,Technion-Israel Institute of Technology
+738,意大利,艾米利亚大学,University of Modena and Reggio Emilia
+739,意大利,巴勒莫大学,University of Palermo
+740,意大利,巴里大学,University of Bari Aldo Moro
+741,意大利,巴里理工大学,Polytechnic University of Bari
+742,意大利,比萨大学,University of Pisa
+743,意大利,比萨高等师范学校,Scuola Normale Superiore - Pisa
+744,意大利,比萨圣安娜大学,Scuola Superiore Sant’Anna
+745,意大利,博科尼大学,Università Commerciale Luigi Bocconi
+746,意大利,博洛尼亚大学,University of Bologna
+747,意大利,布雷西亚大学,University of Brescia
+748,意大利,的里雅斯特大学,University of Trieste
+749,意大利,的里雅斯特国际高等研究学院,International School for Advanced Studies
+750,意大利,都灵大学,University of Turin
+751,意大利,都灵理工大学,Polytechnic University of Turin
+752,意大利,费拉拉大学,University of Ferrara
+753,意大利,佛罗伦萨大学,University of Florence
+754,意大利,卡利亚里大学,University of Cagliari
+755,意大利,卡塔尼亚大学,University of Catania
+756,意大利,罗马第二大学,University of Roma - Tor Vergata
+757,意大利,罗马第三大学,University of Rome III
+758,意大利,罗马第一大学,Sapienza University of Rome
+759,意大利,罗马国际社会科学自由大学,Luiss Guido Carli University
+760,意大利,马尔凯理工大学,Marche Polytechnic University
+761,意大利,米兰比可卡大学,University of Milan - Bicocca
+762,意大利,米兰大学,University of Milan
+763,意大利,米兰理工大学,Polytechnic University of Milan
+764,意大利,那不勒斯菲里德里克第二大学,University of Naples Federico II
+765,意大利,欧洲大学学院,European University Institute
+766,意大利,帕多瓦大学,University of Padua
+767,意大利,帕尔玛大学,University of Parma
+768,意大利,帕维亚大学,University of Pavia
+769,意大利,佩鲁贾大学,University of Perugia
+770,意大利,热那亚大学,University of Genoa
+771,意大利,萨兰托大学,University of Salento
+772,意大利,圣拉斐尔大学,Vita-Salute San Raffaele University
+773,意大利,圣心天主教大学,Catholic University of the Sacred Heart
+774,意大利,特伦托大学,University of Trento
+775,意大利,威尼斯卡福斯卡里大学,Ca’ Foscari University of Venice
+776,意大利,维罗纳大学,University of Verona
+777,意大利,乌迪内大学,University of Udine
+778,意大利,乌尔比诺大学,University of Urbino Carlo Bo
+779,意大利,锡耶纳大学,University of Siena
+780,印度,安娜大学,Anna University
+781,印度,贝拿勒斯印度教大学,Banaras Hindu University
+782,印度,德里大学,University of Delhi
+783,印度,海得拉巴大学,University of Hyderabad
+784,印度,孟买塔塔基础研究学院,"Tata Institute of Fundamental Research (TIFR), Mumbai"
+785,印度,尼赫鲁大学,Jawaharlal Nehru University
+786,印度,旁遮普大学,Panjab University
+787,印度,印度管理学院-艾哈迈达巴德,Indian Institute of Management (IIM) - Ahmedabad
+788,印度,印度管理学院-班加罗尔,Indian Institute of Management (IIM) - Bangalore
+789,印度,印度管理学院-加尔各答商学院,Indian Institue of Management (IIM) - Calcutta
+790,印度,印度科学研究院,Indian Institute of Science
+791,印度,印度理工学院德里分校,Indian Institute of Technology Delhi
+792,印度,印度理工学院古瓦哈提分校,Indian Institute of Technology Guwahati (IITG)
+793,印度,印度理工学院卡哈拉格普尔分校,Indian Institute of Technology Kharagpur
+794,印度,印度理工学院坎普尔分校,Indian Institute of Technology Kanpur (IITK)
+795,印度,印度理工学院鲁尔基分校,Indian Institute of Technology Roorkee (IITR)
+796,印度,印度理工学院马德拉斯分校,Indian Institute of Technology Madras
+797,印度,印度理工学院孟买分校,Indian Institute of Technology Bombay
+798,印度,印度统计学院,Indian Statistical Institute
+799,印度,印度艺术科技研究院,Shanmugha Arts Science Technology and Research Academy (SASTRA)
+800,印度尼西亚,茂物农业大学,Bogor Agricultural University
+801,印度尼西亚,万隆理工学院,Bandung Institute of Technology (ITB)
+802,印度尼西亚,印度尼西亚大学,University of Indonesia
+803,英国,阿伯丁大学,University of Aberdeen
+804,英国,阿伯斯威大学,Aberystwyth University
+805,英国,阿尔斯特大学,Ulster University
+806,英国,阿斯顿大学,Aston University
+807,英国,埃克塞特大学,University of Exeter
+808,英国,艾塞克斯大学,University of Essex
+809,英国,爱丁堡大学,University of Edinburgh
+810,英国,巴思大学,University of Bath
+811,英国,班戈大学,Bangor University
+812,英国,贝尔法斯特女王大学,Queen's University Belfast
+813,英国,伯恩茅斯大学,Bournemouth University
+814,英国,伯明翰大学,University of Birmingham
+815,英国,布拉德福德大学,University of Bradford
+816,英国,布莱顿大学,University of Brighton
+817,英国,布里斯托尔大学,University of Bristol
+818,英国,布鲁内尔大学,Brunel University
+819,英国,邓迪大学,University of Dundee
+820,英国,东英吉利大学,University of East Anglia
+821,英国,杜伦大学,Durham University
+822,英国,格拉斯哥大学,University of Glasgow
+823,英国,格拉斯哥艺术学校,The Glasgow School of Art
+824,英国,赫尔大学,University of Hull
+825,英国,赫瑞瓦特大学,Heriot-Watt University
+826,英国,赫特福德大学,University of Hertfordshire
+827,英国,华威大学,University of Warwick
+828,英国,皇家艺术学院,Royal College of Art
+829,英国,基尔大学,Keele University
+830,英国,剑桥大学,University of Cambridge
+831,英国,金斯顿大学,"Kingston University, London"
+832,英国,卡迪夫大学,Cardiff University
+833,英国,开放大学,The Open University
+834,英国,坎特伯雷基督教会大学学院,Canterbury Christ Church University
+835,英国,克兰菲尔德大学,Cranfield University
+836,英国,肯特大学,University of Kent
+837,英国,拉夫堡大学,Loughborough University
+838,英国,莱斯特大学,University of Leicester
+839,英国,兰卡斯特大学,Lancaster University
+840,英国,雷丁大学,University of Reading
+841,英国,利物浦大学,University of Liverpool
+842,英国,利兹大学,University of Leeds
+843,英国,伦敦城市大学,City University London
+844,英国,伦敦大学伯克贝克学院,"Birkbeck, University of London"
+845,英国,伦敦大学皇家霍洛威学院,Royal Holloway University of London
+846,英国,伦敦大学皇家兽医学院,"Royal Veterinary College , University of London"
+847,英国,伦敦大学教育研究院,The UCL Institute of Education
+848,英国,伦敦大学金史密斯学院,"Goldsmiths, University of London"
+849,英国,伦敦大学玛丽女王学院,Queen Mary University of London
+850,英国,伦敦大学圣乔治学院,"St. George's, University of London"
+851,英国,伦敦大学卫生和热带医学学院,London School of Hygiene & Tropical Medicine
+852,英国,伦敦大学学院,University College London
+853,英国,伦敦大学亚非学院,"SOAS, University of London"
+854,英国,伦敦帝国学院,Imperial College London
+855,英国,伦敦国王学院,King's College London
+856,英国,伦敦商学院,London Business School
+857,英国,伦敦艺术大学,University of the Arts London
+858,英国,伦敦政治经济学院,London School of Economics and Political Science
+859,英国,罗伯特戈登大学,Robert Gordon University
+860,英国,罗汉普顿大学,"University of Roehampton, London"
+861,英国,曼彻斯特大学,University of Manchester
+862,英国,南安普敦大学,University of Southampton
+863,英国,牛津布鲁克斯大学,Oxford Brookes University
+864,英国,牛津大学,University of Oxford
+865,英国,纽卡斯尔大学-上泰恩,Newcastle University
+866,英国,诺丁汉大学,University of Nottingham
+867,英国,诺丁汉特伦特大学,Nottingham Trent University
+868,英国,朴茨茅斯大学,University of Portsmouth
+869,英国,普利茅斯大学,University of Plymouth
+870,英国,瑞文堡设计学院,Ravensbourne
+871,英国,萨里大学,University of Surrey
+872,英国,圣安德鲁斯大学,University of St Andrews
+873,英国,斯凯莱德大学,University of Strathclyde
+874,英国,斯特林大学,University of Stirling
+875,英国,斯旺西大学,Swansea University
+876,英国,苏格兰农业学院,Scottish Agricultural College (SAC)
+877,英国,苏赛克斯大学,University of Sussex
+878,英国,索尔福德大学,University of Salford
+879,英国,威斯敏斯特大学,University of Westminster
+880,英国,西英格兰大学,University of the West of England
+881,英国,谢菲尔德大学,University of Sheffield
+882,英国,约克大学(英国),University of York
+883,智利,迭戈波塔利斯大学,Universidad Diego Portales
+884,智利,康塞普西翁大学,Universidad de Concepción
+885,智利,洛斯安第斯大学（智利）,Universidad de los Andes - Chile
+886,智利,圣玛丽亚联邦理工大学,Universidad Técnica Federico Santa María (USM)
+887,智利,瓦尔帕莱索天主大学,Pontificia Universidad Católica de Valparaíso
+888,智利,智利大学,University of Chile
+889,智利,智利南方大学,Universidad Austral de Chile
+890,智利,智利圣地亚哥大学,Universidad de Santiago de Chile (USACH)
+891,智利,智利天主教大学,Pontifical Catholic University of Chile
+892,中国澳门,澳门大学,University of Macau
+893,中国台湾,长庚大学,Chang Gung University
+894,中国台湾,淡江大学,Tamkang University
+895,中国台湾,逢甲大学,Feng Chia University
+896,中国台湾,高雄医学大学,Kaohsiung Medical University
+897,中国台湾,国立交通大学,National Chung Cheng University
+898,中国台湾,国立台湾科技大学,National Taiwan University of Science and Technology (Taiwan Tech)
+899,中国台湾,国立台湾师范大学,National Taiwan Normal University
+900,中国台湾,国立政治大学,National Chengchi University
+901,中国台湾,国立中兴大学,National Chung Hsing University
+902,中国台湾,国立中央大学,National Central University
+903,中国台湾,台北科技大学,National Taipei University of Technology
+904,中国台湾,台北医科大学,Taipei Medical University
+905,中国台湾,台湾成功大学,National Cheng Kung University
+906,中国台湾,台湾大学,National Taiwan University
+907,中国台湾,台湾交通大学,National Chiao Tung University
+908,中国台湾,台湾清华大学,National Tsing Hua University
+909,中国台湾,台湾阳明大学,National Yang-Ming University
+910,中国台湾,台湾中山大学,National Sun Yat-Sen University
+911,中国台湾,天主教辅仁大学,Fu Jen Catholic University
+912,中国台湾,中国医药大学(台湾),China Medical University
+913,中国香港,岭南大学,"Lingnan University, Hong Kong"
+914,中国香港,香港城市大学,City University of Hong Kong
+915,中国香港,香港大学,The University of Hong Kong
+916,中国香港,香港教育学院,The Hong Kong Institute of Education
+917,中国香港,香港浸会大学,Hong Kong Baptist University
+918,中国香港,香港科技大学,The Hong Kong University of Science and Technology
+919,中国香港,香港理工大学,The Hong Kong Polytechnic University
+920,中国香港,香港理工大学设计学院,HK PolyU School of Design
+921,中国香港,香港中文大学,The Chinese University of Hong Kong
